@@ -11,10 +11,10 @@
     <header class="cabecalho">
         <nav class="menu">
             <img src="images/logo.png" alt="METEORA" class="logo">
-            <a href="home.html" class="link-menu ativo">Home</a>
-            <a href="lojas.html" class="link-menu">Lojas</a>
-            <a href="novidades.html" class="link-menu">Novidades</a>
-            <a href="promocoes.html" class="link-menu">Promoções</a>
+            <a href="index.php" class="link-menu ativo">Home</a>
+            <a href="lojas.php" class="link-menu">Lojas</a>
+            <a href="novidades.php" class="link-menu">Novidades</a>
+            <a href="promocoes.php" class="link-menu">Promoções</a>
         </nav>
         <form class="pesquisa">
             <input type="text" class="campo-texto" placeholder="Digite o produto" maxlength="50" minlength="5" required>
